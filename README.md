@@ -1,6 +1,6 @@
 # Exploratory data analysis using Python and SQL
 
-Data wrangling and essential EDA over a doctor's appointment schedule dataset
+Data wrangling and EDA over a doctor's appointment schedule dataset
 
 ## Dataset information
 
